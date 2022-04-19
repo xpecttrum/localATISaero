@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/IEEE754.h
+iostream
+-
+
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/datalogger.cpp
+modbus/modbus.h
+-
+IEEE754.h
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/IEEE754.h
+datalogger.h
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/datalogger.h
+
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/datalogger.h
+iostream
+-
+vector
+-
+

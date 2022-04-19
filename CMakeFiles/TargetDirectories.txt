@@ -1,0 +1,7 @@
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/CMakeFiles/rebuild_cache.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/CMakeFiles/aeronautics.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/CMakeFiles/edit_cache.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/CMakeFiles/edit_cache.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/CMakeFiles/IEEE754.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/CMakeFiles/rebuild_cache.dir
+/home/pi/AERO_AUTO_ATIS/03_ReadFromRS485USB/include/CMakeFiles/datalogger.dir

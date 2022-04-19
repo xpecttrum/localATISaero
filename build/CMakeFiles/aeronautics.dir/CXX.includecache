@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/datalogger.h
+iostream
+-
+vector
+-
+
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/main.cpp
+iostream
+-
+unistd.h
+-
+fcntl.h
+-
+vector
+-
+string
+-
+sstream
+-
+thread
+-
+memory
+-
+datalogger.h
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/datalogger.h
+

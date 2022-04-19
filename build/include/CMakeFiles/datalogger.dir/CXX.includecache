@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/include/IEEE754.h
+iostream
+-
+
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/include/datalogger.cpp
+modbus/modbus.h
+-
+IEEE754.h
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/include/IEEE754.h
+datalogger.h
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/include/datalogger.h
+
+/home/thales/Documents/2_Projects/08_capgemini/bkp/02_TTS/include/datalogger.h
+iostream
+-
+vector
+-
+
